@@ -1,0 +1,3 @@
+Para executar o programa, basta abrir a pasta 'executavel' e clicar no arquivo 'hobbes.exe'. Para executar, é necessário ter a pasta 'imagens' neste diretório, portanto, não a remova.
+
+Caso queira executar o arquivo no linux, precisa ter instalado em sua máquina o Python versão 3.9.10 e a versão 3.11.0 do TKINTER, ou superior (para ambos). O arquivo principal para a execução do jogo é o hobbes.py que se encontra na pasta arquivos_implementacao.
